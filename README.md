@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-<!--
-**princessasinjames/princessasinjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- I am Princess James, a **Computer Science major** studying at the University of South Florida!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎶 Outside the tech world, I like to listen to music, watch movies, and hangout with friends.
+
+## 🛠️ Skills
+
+ <!--- feel free to add your own badges and skills. Google https://img.shields.io/badge/SKILL-NAME-000000?style=for-the-badge&logo=SKILL-NAME&logoColor=white) for badges -->
+ 
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++3&logoColor=white)
+![c](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white)
+
+## 📝 Networking
+- I am currently looking for a internship that involves data science/financees!
+- I am also looking to collaborate on research projects!
+- Connect with me down below!
+
+## 🔗Connect with me!
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/princessasinjames)
+[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/princessasinjames)
+[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/princess-james-36171b249)
