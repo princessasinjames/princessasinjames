@@ -11,11 +11,11 @@
  <!--- feel free to add your own badges and skills. Google https://img.shields.io/badge/SKILL-NAME-000000?style=for-the-badge&logo=SKILL-NAME&logoColor=white) for badges -->
  
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++3&logoColor=white)
 ![c](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white)
+![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++3&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for a internship that involves data science/financees!
+- I am currently looking for a summer internship in the realm of data science, supply chain, or finances!
 - I am also looking to collaborate on research projects!
 - Connect with me down below!
 
