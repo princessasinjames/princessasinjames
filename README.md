@@ -11,8 +11,10 @@
  <!--- feel free to add your own badges and skills. Google https://img.shields.io/badge/SKILL-NAME-000000?style=for-the-badge&logo=SKILL-NAME&logoColor=white) for badges -->
  
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![c](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white)
-![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++3&logoColor=white)
+![c](https://img.shields.io/badge/Ccode-000000?style=for-the-badge&logo=C&logoColor=white)
+![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++&logoColor=white)
+![c++](https://img.shields.io/badge/Powerpoint-000000?style=for-the-badge&logo=powerpoint&logoColor=white)
+![c++](https://img.shields.io/badge/Word-000000?style=for-the-badge&logo=docx&logoColor=white)
 
 ## 📝 Networking
 - I am currently looking for a summer internship in the realm of data science, supply chain, or finances!
