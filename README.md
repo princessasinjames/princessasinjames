@@ -20,7 +20,7 @@
 ![Word](https://img.shields.io/badge/Word-000000?style=for-the-badge&logo=Word&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for a summer internship (unpaid/paid) or volunteering in the realm of data science, government, supply chain, or finances!
+- I am currently looking for a summer internship (unpaid/paid) or volunteering in the realm of data science, supply chain, or government!
 - Also looking to collaborate on research projects.
 - Connect with me down below.
 
