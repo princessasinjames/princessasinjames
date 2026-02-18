@@ -16,11 +16,9 @@
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-000000?style=for-the-badge&logo=PowerPoint&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
-![Word](https://img.shields.io/badge/Word-000000?style=for-the-badge&logo=Word&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for a summer internship (unpaid/paid) or volunteering in the realm of data science, supply chain, or government!
+- I am currently looking for a summer internship (unpaid/paid) or volunteering in the realm of front-end development, government, or supply chain!
 - Also looking to collaborate on research projects.
 - Connect with me down below.
 
