@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- I am Princess James, a **Computer Science major** studying at the University of South Florida!
+- I am Princess James, a junior **Computer Science major** studying at the University of South Florida!
 
 🎶 Outside the tech world, I like to listen to music, watch movies, and hangout with friends.
 
