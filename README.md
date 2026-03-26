@@ -4,7 +4,7 @@
 
 - I am Princess James, a junior **Computer Science major** studying at the University of South Florida!
 
-🎶 Outside the tech world, I like to skateboard, spend time with friends, watch movies/series (i.e. "Lost" and "Cast Away"), and listen to music (i.e. 'Unwritten" by Natasha Bedingfield, "Daiies" by Katy Perry, and "Sign of the Times" by Harry Styles).
+🎶 Outside the tech world, I like to skateboard, spend time with friends, watch movies/series (i.e. "Lost" and "Cast Away"), and listen to music (i.e. 'Unwritten" by Natasha Bedingfield, "Daisies" by Katy Perry, and "Sign of the Times" by Harry Styles).
 
 ## 🛠️ Skills
 
