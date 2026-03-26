@@ -18,7 +18,7 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-000000?style=for-the-badge&logo=PowerPoint&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for a summer internship (unpaid/paid) or volunteering in the realm of front-end development, government, or supply chain!
+- I am currently looking for an internship in the realm of front-end development, supply chain, information technology, manufacturing, or government.
 - Also looking to collaborate on research projects.
 - Connect with me down below.
 
