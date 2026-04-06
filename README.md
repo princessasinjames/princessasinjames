@@ -22,7 +22,5 @@
 - Also looking to collaborate on research projects.
 - Connect with me down below.
 
-## 🔗Connect with me!
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/princessasinjames)
-[![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/princessasinjames)
+## 🔗Connect with me
 [![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/princess-james-36171b249)
