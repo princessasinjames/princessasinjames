@@ -18,7 +18,7 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-000000?style=for-the-badge&logo=PowerPoint&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for an internship in the realm of front-end development, supply chain, information technology, manufacturing, or government.
+- I am looking for an internship in the realm of data analytics, front-end development, manufacturing/supply chain, manufacturing, or a similar field.
 - Also looking to collaborate on research projects.
 - Connect with me down below.
 
