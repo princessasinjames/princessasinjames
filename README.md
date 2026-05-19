@@ -22,5 +22,5 @@
 - Also looking to collaborate on research projects.
 - Connect with me down below.
 
-## 🔗Connect with me
+## 🔗Connect with me!
 [![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/princess-james-36171b249)
