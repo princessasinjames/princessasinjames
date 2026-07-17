@@ -15,7 +15,6 @@
 ![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-000000?style=for-the-badge&logo=PowerPoint&logoColor=white)
 
 ## 📝 Networking
 - I am looking for an internship in the realm of data analytics, front-end development, manufacturing/supply chain, manufacturing, or a similar field.
