@@ -30,8 +30,7 @@
 - https://www.roblox.com/games/108254448511945/PalmCove
 
 ## 👤 Networking
-- I am looking for an internship in the realm of data analytics, front-end development, manufacturing/supply chain, manufacturing, or a similar field.
-- Also looking to collaborate on research projects.
+- I am looking for a position in the realm of data analytics, front-end development, manufacturing/supply chain, manufacturing, or a similar field.
 - Connect with me below.
 
 ## 🔗 Connect
