@@ -14,17 +14,17 @@
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white)
 
+## 💻 WebApps
+- https://decidethisforme.lovable.app/
+- https://whattodolist.zite.so/
+- https://ilikeratingmovies.zite.so/
+
 ## 🕹️ Games
 - https://www.roblox.com/games/2336103983/Pancake-Stacker
 - https://www.roblox.com/games/87843744667164/Guess-and-Draw
 - https://www.roblox.com/games/128031035022007/Icon-Guesser
 - https://www.roblox.com/games/80399738025971/Craft-Food
 - https://www.roblox.com/games/108254448511945/PalmCove
-
-## 💻 WebApps
-- https://decidethisforme.lovable.app/
-- https://whattodolist.zite.so/
-- https://ilikeratingmovies.zite.so/
 
 ## 👤 Networking
 - I am looking for an internship in the realm of data analytics, front-end development, manufacturing/supply chain, manufacturing, or a similar field.
