@@ -11,13 +11,16 @@
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
 ![Clanguage](https://img.shields.io/badge/Clanguage-000000?style=for-the-badge&logo=Clanguage&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML&logoColor=white)
 
 ## 💻 WebApps
 - https://decidethisforme.lovable.app/
 - https://whattodolist.zite.so/
 - https://ilikeratingmovies.zite.so/
+- https://frog-collection-tracker.zite.so/
+- https://frogcollectiontracker.lovable.app/
 
 ## 🕹️ Games
 - https://www.roblox.com/games/2336103983/Pancake-Stacker
