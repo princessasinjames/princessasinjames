@@ -2,9 +2,7 @@
 
 ## 🚀 About Me
 
-- I am Princess James, a junior **Computer Science major** studying at the University of South Florida!
-
-🎬 Outside the tech world, I like to spend time with friends, watch movies/series (i.e. "Lost" and "Cast Away"), and listen to music (i.e. "Unwritten" by Natasha Bedingfield, "Daisies" by Katy Perry, and "Sign of the Times" by Harry Styles).
+- I am Princess James, a **Computer Science major** from the University of South Florida.
 
 ## 🛠️ Skills
 
@@ -16,10 +14,22 @@
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white)
 
-## 📝 Networking
+## 🕹️ Games
+- https://www.roblox.com/games/2336103983/Pancake-Stacker
+- https://www.roblox.com/games/87843744667164/Guess-and-Draw
+- https://www.roblox.com/games/128031035022007/Icon-Guesser
+- https://www.roblox.com/games/80399738025971/Craft-Food
+- https://www.roblox.com/games/108254448511945/PalmCove
+
+## 💻 WebApps
+- https://decidethisforme.lovable.app/
+- https://whattodolist.zite.so/
+- https://ilikeratingmovies.zite.so/
+
+## 👤 Networking
 - I am looking for an internship in the realm of data analytics, front-end development, manufacturing/supply chain, manufacturing, or a similar field.
 - Also looking to collaborate on research projects.
-- Connect with me down below.
+- Connect with me below.
 
-## 🔗Connect with me!
+## 🔗 Connect
 [![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/princess-james-36171b249)
